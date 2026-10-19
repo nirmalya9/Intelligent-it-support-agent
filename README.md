@@ -558,7 +558,6 @@ Do not judge the project on two or three hand-picked tickets. Build a repeatable
 | **Retrieval** | Expected article in top 3 / top 5; whether the passage truly supports the recommendation; whether the source is current and authoritative |
 | **Workflow** | Clear tickets; ambiguous tickets (should ask for info); low-confidence predictions; no relevant knowledge found; urgent cases (should escalate); the rule that **no real diagnostic or remediation action is executed** |
 
-Never claim a metric you have not measured.
 
 ---
 
