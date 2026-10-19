@@ -1,0 +1,31 @@
+title,description,category
+VPN login failure,VPN says authentication failed after password reset,vpn_network
+Cannot connect to VPN,Corporate VPN will not connect from home,vpn_network
+VPN disconnects,VPN disconnects every few minutes,vpn_network
+Network is slow,Internet connection is slow and internal sites time out,vpn_network
+DNS lookup failed,The browser says DNS address could not be found,vpn_network
+WiFi connection issue,Laptop cannot connect to office wireless network,vpn_network
+Password reset,Need help resetting my account password,access_account
+Account locked,My account is locked after too many login attempts,access_account
+MFA code issue,Multi factor authentication code is not accepted,access_account
+Permission denied,I receive access denied when opening a shared folder,access_account
+Cannot sign in,Login fails even though I think the password is correct,access_account
+New account access,Please provide access to the reporting portal,access_account
+Application is down,Internal application returns service unavailable,application
+Portal error,The company portal displays an internal server error,application
+Application is slow,The web application takes a long time to load,application
+Page not loading,The internal dashboard stays blank after login,application
+API returns 500,Our test API is returning internal server errors,application
+Application timeout,Request to the internal tool keeps timing out,application
+Laptop is overheating,My laptop fan is loud and the computer is hot,hardware
+Keyboard not working,Several keys on my laptop keyboard do not respond,hardware
+Screen flickering,The laptop display flickers after startup,hardware
+Laptop will not start,Computer does not power on when I press the button,hardware
+Battery drains quickly,Laptop battery runs out much faster than before,hardware
+External monitor issue,External monitor is not detected by my laptop,hardware
+Install software,Need approved software installed on my laptop,software
+IDE crashes,My development IDE closes unexpectedly,software
+Update failed,The software update keeps failing,software
+Browser error,The browser crashes when opening multiple tabs,software
+Printer not working,Office printer does not print my document,software
+PDF application issue,PDF files will not open in the default reader,software
